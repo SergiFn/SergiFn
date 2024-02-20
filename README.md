@@ -7,6 +7,11 @@
 - 🌱 Currently learning Functional Programming using Scala.
 - 👯 Collaborating on a webpage using Django.
 
+
+## 📊 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergifn&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![SergiFn's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergifn&show_icons=false&theme=radical&hide_rank=true&show=commits,prs_merged,prs_merged_percentage&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🧰 Languages and tools
 
 <img align="left" alt="Java" width="60px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
@@ -38,10 +43,6 @@
 <br/>
 <br/>
 <br/>
-
-## 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergifn&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![SergiFn's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergifn&show_icons=false&theme=radical&hide_rank=true&show=commits,prs_merged,prs_merged_percentage&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SergiFn/SergiFn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
