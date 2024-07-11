@@ -1,7 +1,7 @@
 
 ## 👨‍🎓 About Me
 
-- 🏛 Studying Computer Science at University of Lleida (UdL).
+- 🏛 Computer Science at University of Lleida (UdL).
 - 🌱 Currently learning Functional Programming using Scala.
 - 👯 Collaborating on a webpage using Django.
 
